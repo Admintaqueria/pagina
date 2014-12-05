@@ -1,0 +1,8 @@
+para entrar a la cuenta de hostiger
+olimpocruz@gmail.com
+contraseña: petardas123
+para la conexion en php
+$servername = "mysql.hostinger.es";
+$username = "u676488434_root";
+$password = "petardas123";
+$dbname = "u676488434_tacos";
